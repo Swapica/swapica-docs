@@ -1,0 +1,2 @@
+# swapica-docs
+Swapica documentation
